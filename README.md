@@ -99,8 +99,10 @@ Responsible reporting helps keep the platform safe and reliable.
 - **Forum:** https://forum.kevsrv.me  
   Use the forum for announcements, questions, support requests, and general discussion.
 
-- **Abuse Reports / Support Email:**  
+- **Abuse Reports:**  
   📧 **cs[AT]kevsrv.me**
+- **Any Other Inquires/Support Email:**  
+  📧 **support[AT]kevinservice.zohodesk.com**
 
 When reporting abuse, please include:
 - the full domain name
