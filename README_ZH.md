@@ -102,8 +102,10 @@ Kevin Service Registry 是由 Kevin Service 运营的 **免费子域名注册服
 - **论坛:** https://forum.kevsrv.me  
   用于公告、提问、技术支持与社区讨论。
 
-- **滥用举报 / 支持邮箱:**  
+- **滥用举报:**  
   📧 **cs[AT]kevsrv.me**
+- **其他以及支持邮箱:**  
+  📧 **support[AT]kevinservice.zohodesk.com**
 
 举报滥用时请提供：
 - 完整域名
