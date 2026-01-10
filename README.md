@@ -96,13 +96,13 @@ Responsible reporting helps keep the platform safe and reliable.
 
 ## Contact & Community
 
-- **Forum:** https://forum.kevsrv.me\
+- **Forum:** https://forum.kevsrv.me
   Use the forum for announcements, questions, support requests, and general discussion.
 - **Abuse Reports:**
-  - **Please read here to learn about how to format an **[**abuse report**](https://registry.kevsrv.me/abuse)\
+  - **Please read here to learn about how to format an **[**abuse report**](https://registry.kevsrv.me/abuse)
     📧 **cs@kevsrv.me**
 - **Any Other Inquires/Support Email:**
-  - **Please read our **[**E-mail guidelines**](https://registry.kevsrv.me/contact)** before sending an E-mail, any E-mails sent that do not follow the guidelines may be may be deprioritized or ignored.**\
+  - **Please read our **[**E-mail guidelines**](https://registry.kevsrv.me/contact)** before sending an E-mail, any E-mails sent that do not follow the guidelines may be may be deprioritized or ignored.**
     📧 **support@kevinservice.zohodesk.com**
 
 When reporting abuse, please include:
